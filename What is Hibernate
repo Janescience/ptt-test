@@ -1,0 +1,3 @@
+Hibernate เป็น Java framework ใช้ในการจัดการข้อมูลแบบ ORM (Object/Relation Mapping คือการ Mapping java object กับ ข้อมูลจาก Database แบบอัตโนมัติกลับไปกลับมา) ทำให้ การเข้าถึงข้อมูล การเรียกค้นข้อมูลต่างๆ ง่าย สะดวก และมีประสิทธิภาพมากขึ้น 
+ให้เห็นภาพง่ายๆก็เปรียบ Table เท่ากับ Class และ Column เท่ากับ Attribute หรือที่เข้าใจกันก็คือ Entity และจัดการ CRUD ผ่าน JPA 
+
